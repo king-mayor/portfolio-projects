@@ -31,6 +31,9 @@ color: rgb(231, 159, 24);
     right: 15px;
     z-index: 2;
 }
+.nav-div {
+    z-index: 20;
+ }
 @media all and (max-width: 780px){
     .main-footer {
         display: flex;
